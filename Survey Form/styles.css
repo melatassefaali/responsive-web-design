@@ -1,0 +1,40 @@
+html {
+    background-color: lightblue;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+    
+.submit {
+    background-color: lightgreen;
+    display: block;  
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 100%;
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    background-color: darkblue;
+}
+
+label {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.basic, select {
+    width:100%;
+}
+
+label label {
+    padding: 0px;
+}
